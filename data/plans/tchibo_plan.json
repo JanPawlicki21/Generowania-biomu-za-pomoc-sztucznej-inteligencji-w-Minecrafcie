@@ -1,0 +1,15 @@
+{
+  "brand_name": "Tchibo",
+  "zones": [
+    {
+      "zone_type": "coffee_origin",
+      "name": "Coffee Origin",
+      "purpose": "Show origin and quality of coffee."
+    },
+    {
+      "zone_type": "home_cafe",
+      "name": "Home & Cafe",
+      "purpose": "Cozy everyday coffee ritual."
+    }
+  ]
+}

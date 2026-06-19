@@ -1,0 +1,19 @@
+# Zmienne środowiskowe i klucze API 
+.env
+
+# Środowiska wirtualne Pythona
+venv/
+env/
+.venv/
+
+# Pliki tymczasowe i cache Pythona
+__pycache__/
+*.pyc
+*.pyo
+
+# Wygenerowane paczki Minecrafta 
+generated_datapacks/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
